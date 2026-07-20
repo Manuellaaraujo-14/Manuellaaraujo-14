@@ -29,9 +29,9 @@ Em breve pretendo adicionar:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuellaaraujo-14&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manuellaaraujo-14&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuellaaraujo-14&layout=compact&theme=tokyonight)
+![Top Langs](htps://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manuellaaraujo-14&layout=compact&theme=tokyonight)
 
 ## ✨ Frase
 
