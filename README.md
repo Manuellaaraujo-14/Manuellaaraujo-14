@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudante do ensino médio (terceirão).
+- 🎓 Estudante do ensino médio.
 - 🌱 Atualmente estudando **Python**.
 - 📚 Gosto de aprender novas tecnologias e desenvolver projetos para praticar.
 - 🚀 Sempre buscando evoluir um pouco mais a cada dia.
@@ -15,8 +15,7 @@
 
 Em breve pretendo adicionar:
 
-- HTML
-- CSS
+
 - JavaScript
 - Git e GitHub
 
@@ -39,4 +38,4 @@ Em breve pretendo adicionar:
 
 ---
 
-⭐ Obrigada por visitar meu perfil! 
+⭐ Obrigada por ler até aqui! 
